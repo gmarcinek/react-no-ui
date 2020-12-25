@@ -1,0 +1,21 @@
+{
+  "name": "react-no-ui",
+  "version": "0.0.1",
+  "description": "ESM react components",
+  "private": true,
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmarcinek/react-no-ui.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmarcinek/react-no-ui/issues"
+  },
+  "homepage": "https://github.com/gmarcinek/react-no-ui#readme"
+}
